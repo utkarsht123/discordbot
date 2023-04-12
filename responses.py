@@ -1,5 +1,5 @@
 import random
-
+#this is a boiler plate to work on adding future features
 
 def get_response(message: str) -> str:
     p_message = message.lower()
